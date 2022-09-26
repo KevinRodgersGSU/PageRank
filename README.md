@@ -1,4 +1,4 @@
-Page Rank Algorithm in python
+Power iteration Algorithm for computing PageRank in python
 
 Page Rank Equation: 
 <img width="130" alt="Algo" src="https://user-images.githubusercontent.com/77468658/192345047-72fd98cc-6eb5-4793-a7ae-e876e149d099.PNG">
